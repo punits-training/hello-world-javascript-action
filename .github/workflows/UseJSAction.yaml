@@ -19,4 +19,4 @@ jobs:
     - name: Run JavaScript action
       uses: ./
       with:
-        name: 'Punit'
+        who-to-greet: 'Punit'

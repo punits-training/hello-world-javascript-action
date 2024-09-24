@@ -19,4 +19,4 @@ jobs:
     - name: Run JavaScript action
       uses: ./
       with:
-        who-to-greet: 'M42 Team'
+        name: 'M42 Team'
